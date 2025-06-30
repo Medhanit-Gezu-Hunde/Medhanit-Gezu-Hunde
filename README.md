@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Medhanit Gezu Hunde
-- 👀 I’m interested in movies,books,design
-- 🌱 I’m currently learning mechanical engineering
-- 💞️ I’m looking to collaborate on web development,mechanical design
-- 😄 Pronouns:she/her
-- ⚡ Fun fact:I can speak 3 languages fluently 
+👋 Hi, I’m Medhanit 
+👀 I’m passionate about mechanical design, space, and technology  
+🌱 I’m currently studying Mechanical Engineering at AAiT  
+😄 Pronouns: she/her  
+⚡ Fun fact: I love exploring new ideas and places!
+
 
 <!---
 Medhanit-Gezu-Hunde/Medhanit-Gezu-Hunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
