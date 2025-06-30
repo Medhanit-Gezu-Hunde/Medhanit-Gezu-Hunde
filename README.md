@@ -1,8 +1,7 @@
 👋 Hi, I’m Medhanit 
 👀 I’m passionate about mechanical design, space, and technology  
 🌱 I’m currently studying Mechanical Engineering at AAiT  
-😄 Pronouns: she/her  
-⚡ Fun fact: I love exploring new ideas and places!
+ ⚡ Fun fact: I love exploring new ideas and places!
 
 
 <!---
